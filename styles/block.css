@@ -1,0 +1,13 @@
+.box {
+  /* width: 200px; */
+  height: 100px;
+  background-color: aqua;
+}
+.inline-box {
+  width: 500px;
+  background-color: aquamarine;
+}
+img{
+    height: 170px;
+    width: 200px;
+}
